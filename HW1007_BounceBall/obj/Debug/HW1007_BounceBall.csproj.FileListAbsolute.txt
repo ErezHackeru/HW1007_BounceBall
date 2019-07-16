@@ -1,0 +1,10 @@
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\bin\Debug\HW1007_BounceBall.exe.config
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\bin\Debug\HW1007_BounceBall.exe
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\bin\Debug\HW1007_BounceBall.pdb
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\obj\Debug\HW1007_BounceBall.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\obj\Debug\HW1007_BounceBall.Properties.Resources.resources
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\obj\Debug\HW1007_BounceBall.csproj.GenerateResource.cache
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\obj\Debug\HW1007_BounceBall.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\obj\Debug\HW1007_BounceBall.exe
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\obj\Debug\HW1007_BounceBall.pdb
+D:\VisualStudio_Projects\CourseHackerU\HW1007_BounceBall\HW1007_BounceBall\obj\Debug\HW1007_BounceBall.BB_Form.resources
